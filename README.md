@@ -1,5 +1,5 @@
 <h1 align="center">Afonso Gabriel</h1>
-<img align="right" height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajgwZnRwN2x2c3ZwemI2aGFxaHRqcnRwdTFoaXN4d29rMW95d2NpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMLJaPmbUnoC4/giphy.gif">
+<img align="right" height="100" src="https://media1.tenor.com/m/Dld6AGBeg2kAAAAC/spiderman.gif">
 
 ###
 
