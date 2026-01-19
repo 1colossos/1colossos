@@ -60,5 +60,3 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1colosso/1colosso/output/bat-snake.svg" alt="Snake animation theme Bat" width="100%" />
-</div>
