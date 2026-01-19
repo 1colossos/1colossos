@@ -38,11 +38,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1colossos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1&custom_title=Minhas%20Estat%C3%ADsticas" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1colossos&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1colossos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1colossos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
   
-  <img src="https://streak-stats.demolab.com?user=1colossos&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=1colossos&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
 </div>
 
 ###
