@@ -28,7 +28,21 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,java,html,js,css,mysql,nodejs&theme=dark" height="32" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=git" height="32" alt="git logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="mysql logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="nodejs logo" />
 </div>
 
 ###
@@ -38,15 +52,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1colossos&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1colossos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-  
-  <img src="https://streak-stats.demolab.com?user=1colossos&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1colossos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1&custom_title=Minhas%20Estat%C3%ADsticas" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1colossos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=1colossos&locale=pt-br&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1colossos/1colossos/output/bat-snake.svg" alt="Snake animation theme Bat" width="100%" />
+  <img src="https://raw.githubusercontent.com/1colosso/1colosso/output/bat-snake.svg" alt="Snake animation theme Bat" width="100%" />
 </div>
