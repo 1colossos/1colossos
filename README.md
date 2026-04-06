@@ -6,7 +6,7 @@ Atualmente sou estudante de <strong>Análise e Desenvolvimento de Sistemas</stro
 </p>
 
 <p align="left">
-  🦄 Minhas Skills:<br><br>
+  🚨 Minhas Skills:<br><br>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -32,7 +32,7 @@ Atualmente sou estudante de <strong>Análise e Desenvolvimento de Sistemas</stro
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo: ⤵️
+  📲 Entre em contato comigo: ⤵️
 </p>
 
 <p align="left">
