@@ -1,63 +1,46 @@
-<h1 align="center">Afonso Gabriel</h1>
-<img align="right" height="100" src="https://media1.tenor.com/m/Dld6AGBeg2kAAAAC/spiderman.gif">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-###
+<p align="left"> 
+  Olá, meu nome é <strong>Afonso Gabriel</strong>, tenho 20 anos.<br>
+  Atualmente sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e também curso <strong>Direito</strong>.
+</p>
 
-<h4 align="left">Me chamo Afonso Gabriel, sou cristão e devoto pela minha família. Além disso, um acadêmico de direito e primordialmente um amante da tecnologia. Vamos codar.</h4>
+<p align="left">
+  🦄 Minhas Skills:<br><br>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
-###
+<p align="left">
+  💼 Ferramentas: 
+   <img src="https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000"/>
+   <img src = "https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
 
-<br clear="both">
+</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/afonso-gabriel-217ba430b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/a.gabrieu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=@a.gabrieu&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo" />
-  </a>
-  <a href="mailto:agfbezerra@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo" />
-  </a>
-</div>
+<p align="left">
+  💌 Entre em contato comigo: ⤵️
+</p>
 
-###
+<p align="left">
+  <a href="mailto:agfbezerra@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="www.linkedin.com/in/afonso-gabriel-217ba430b" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/a.gabrieu" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
-<h2 align="left">Skills</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="32" alt="git logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="mysql logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="nodejs logo" />
-</div>
-
-###
-
-<h2 align="left">GitHub Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1colossos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1&custom_title=Minhas%20Estat%C3%ADsticas" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1colossos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=1colossos&locale=pt-br&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" />
-</div>
-
-###
-
-<div align="center">
- 
