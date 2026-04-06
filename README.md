@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Olá, meu nome é <strong>Afonso Gabriel</strong>, <strong>tenho 20 anos<strong/>. Atualmente sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e, paralelamente, curso <strong>Direito.</strong>
+Olá, meu nome é <strong>Afonso Gabriel</strong>, <strong>tenho 20 anos</strong>.  
+Atualmente sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e, paralelamente, curso <strong>Direito</strong>.
 </p>
 
 <p align="left">
